@@ -81,3 +81,32 @@ eclipse https://myhanoli.com/2018/08/11/como-crear-un-proyecto-web-con-maven-des
 
 [5] Guía de migración de proyectos Java a
 Maven https://www.viafirma.com/blog-xnoccio/es/guia-de-migracion-de-proyectos-java-a-maven/
+
+
+![Static Badge](https://img.shields.io/badge/Ejercicio%202.1%20-%20Red?labelColor=abcdef&cacheSeconds=3200)![Static Badge](https://img.shields.io/badge/Modulo%206%20-%20blue?labelColor=abcdef&cacheSeconds=3200)
+
+
+## **Integrantes :**
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Angelica%20-%20Romero%20-%20violet?cacheSeconds=3200" alt="Texto alternativo 1"></td>
+    <td><img src="https://img.shields.io/badge/Bastian%20-%20Mariangel%20-%20red?cacheSeconds=3200" alt="Texto alternativo 2"></td>
+    <td><img src="https://img.shields.io/badge/Ivan%20-%20Mieres%20-%20green?cacheSeconds=3200" alt="Texto alternativo 2"></td>
+    <td><img src="https://img.shields.io/badge/Patricio%20-%20Bonnin%20-%20brown?cacheSeconds=3200" alt="Texto alternativo 2"></td>
+    <td><img src="https://img.shields.io/badge/Roberto%20-%20Rivas%20-%20blue?cacheSeconds=3200" alt="Texto alternativo 2"></td>
+
+  </tr>
+</table>
+
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_2.1_Modulo_6/assets/131497718/e7f24425-015f-4616-a088-7a97a4a1d7de)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_2.1_Modulo_6/assets/131497718/25a56323-fb97-4ed2-926a-7aa76a0688f3)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_2.1_Modulo_6/assets/131497718/157f10ad-8bba-4818-ae49-e11b8d0610db)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_2.1_Modulo_6/assets/131497718/f571f3be-fbc9-41b3-94c5-138980c446e8)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_2.1_Modulo_6/assets/131497718/f05c21cb-867f-413e-8c91-af5cbad15500)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_2.1_Modulo_6/assets/131497718/a50ae9f0-4864-47e0-bd76-e36f83bd3c8b)
+
+
+
+
+
